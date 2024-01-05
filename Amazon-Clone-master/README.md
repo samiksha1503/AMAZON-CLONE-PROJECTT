@@ -55,8 +55,5 @@ Open your browser and visit `http://localhost:3000` to see the Amazon Clone in a
 
 This project was inspired by Jonathan Davies' tutorial. Check out his video on YouTube: [Amazon Clone in React, Tailwind CSS & Redux [2023]](https://youtu.be/pnnblIo1iO0?si=fUbHnRcPb-GSlmqc). Explore his channel: [Jonathan Davies on YouTube](http://www.youtube.com/@Jonathan.Davies).
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Feel free to contribute, report issues, or suggest improvements. Happy coding! 👩‍💻👨‍💻
